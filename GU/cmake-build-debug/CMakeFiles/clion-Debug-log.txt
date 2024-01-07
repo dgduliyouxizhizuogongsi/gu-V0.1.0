@@ -1,0 +1,10 @@
+"E:\CLion 2023.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/CLion 2023.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\C++\GU -B D:\C++\GU\cmake-build-debug
+CMake Warning (dev) at CMakeLists.txt:11:
+  Syntax Warning in cmake code at column 40
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/C++/GU/cmake-build-debug
